@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "rp2040-tiny")(type "KiCad")(uri "${KIPRJMOD}/../libs/rp2040-tiny.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-xp-choc")(type "KiCad")(uri "${KIPRJMOD}/../libs/marbastlib/footprints/marbastlib-xp-choc.pretty")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/../libs/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "choc12-hotswap")(type "KiCad")(uri "${KIPRJMOD}/../libs/choc12-hotswap.pretty")(options "")(descr ""))
+)
