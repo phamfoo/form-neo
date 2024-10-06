@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "2736c056-7915-436e-aaa9-fc38b1698373")
 	(paper "A4")
+	(title_block
+		(title "Form Neo")
+		(date "2024-10-06")
+		(rev "1.0")
+	)
 	(lib_symbols
 		(symbol "Device:D"
 			(pin_numbers hide)
